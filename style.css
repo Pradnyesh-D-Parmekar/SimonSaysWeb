@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+}
+
+.btn{
+    border: 10px solid black;
+    border-radius:20% ;
+    height: 200px;
+    width: 200px;
+    margin: 2rem;
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+
+.r{
+    background-color: #d95980;
+}
+.y{
+    background-color: #f99b45;
+}
+.p{
+    background-color:#819ff9;
+}
+.g{
+    background-color: #63aac0;
+}
+.flash{
+    background-color: white;
+}
+.usrflash{
+    background-color: rgb(101, 150, 101);
+}
